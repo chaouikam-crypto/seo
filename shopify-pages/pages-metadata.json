@@ -1,0 +1,56 @@
+{
+  "pages": [
+    {
+      "title": "Notre Histoire",
+      "handle": "notre-histoire",
+      "isPublished": true,
+      "seo": {
+        "title": "Notre Histoire | Guapa – Soins Corps Vegan Fabriqués en France",
+        "description": "Découvrez l'histoire de Guapa : une marque française de soins corps vegan, formulée en collaboration avec les parfumeurs de Grasse. Clean, sensuel, made in France."
+      },
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Notre Histoire | Guapa – Soins Corps Vegan Fabriqués en France",
+          "type": "single_line_text_field"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Découvrez l'histoire de Guapa : une marque française de soins corps vegan, formulée en collaboration avec les parfumeurs de Grasse. Clean, sensuel, made in France.",
+          "type": "single_line_text_field"
+        }
+      ],
+      "content_file": "notre-histoire.html",
+      "word_count": 900,
+      "target_url": "/pages/notre-histoire"
+    },
+    {
+      "title": "Cosmétique Vegan France",
+      "handle": "cosmetique-vegan-france",
+      "isPublished": true,
+      "seo": {
+        "title": "Cosmétiques Vegan Fabriquées en France | Guapa – Soins Corps avec les Parfumeurs de Grasse",
+        "description": "Guapa propose des soins corps 100% vegan fabriqués en France, développés avec les parfumeurs de Grasse. Gommages, brumes, huiles sèches et laits corps sans ingrédients animaux ni tests sur animaux."
+      },
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Cosmétiques Vegan Fabriquées en France | Guapa – Soins Corps avec les Parfumeurs de Grasse",
+          "type": "single_line_text_field"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Guapa propose des soins corps 100% vegan fabriqués en France, développés avec les parfumeurs de Grasse. Gommages, brumes, huiles sèches et laits corps sans ingrédients animaux ni tests sur animaux.",
+          "type": "single_line_text_field"
+        }
+      ],
+      "content_file": "cosmetique-vegan-france.html",
+      "word_count": 1600,
+      "target_url": "/pages/cosmetique-vegan-france"
+    }
+  ]
+}
